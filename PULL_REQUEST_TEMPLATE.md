@@ -26,7 +26,3 @@
     - [ ] Logged in as `User A`, can you access/modify `User B`'s data by guessing URLs?
     - [ ] Have you tested inputs with basic XSS and SQL injection payloads (`<script>`, `'`)?
     - [ ] Do error pages or API responses leak sensitive information (e.g., stack traces, config details)?
-
----
-### Final Approval
-- [ ] **Merge approved by (reviewer's @handle):**
